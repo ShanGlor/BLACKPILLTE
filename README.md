@@ -1,12 +1,13 @@
-# BLACKPILLTE
+## BLACKPILLTE
 Flight Controller using Blackpill 3.0 (STM32F411CEU6) based on MATEKF411TE
 
+-----------------
 
-FC Specifications:
+# FC Specifications:
 
-MCU: 108MHz STM32F411CEU6
+* MCU: 108MHz STM32F411CEU6
 
-IMU: MPU6500 OR BMI160
+* IMU: MPU6500 OR BMI160
 
 OSD
 
