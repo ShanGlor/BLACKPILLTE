@@ -37,7 +37,4 @@ No Built in inverter for SBUS input
 
 FC Firmware:
 
-INAV Target: INAV-6.1.1 GLORF411TE
-
-
 ![My Remote Image](https://github.com/ShanGlor/BLACKPILLTE/blob/main/GLORF411-WTE_Wiring1.png?dl=0)
