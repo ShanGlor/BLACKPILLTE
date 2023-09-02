@@ -19,9 +19,9 @@ Flight Controller using Blackpill 3.0 (STM32F411CEU6) based on MATEKF411TE
 * PPM receiver: not supported
 * IBUS and CRSF supported
 * No Built in inverter for SBUS input
------------------
+
 # FC Firmware:
 ![My Remote Image](https://github.com/ShanGlor/BLACKPILLTE/blob/main/GLORF411-WTE_Wiring1.png?dl=0)
------------------
+
 # INAV Configurator
 https://github.com/iNavFlight/inav-configurator/releases/download/6.1.0/INAV-Configurator_win64_6.1.0.zip
