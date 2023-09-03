@@ -24,5 +24,4 @@ Flight Controller using Blackpill 3.0 (STM32F411CEU6) based on MATEKF411TE
 ![My Remote Image](https://github.com/ShanGlor/BLACKPILLTE/blob/main/GLORF411-WTE_Wiring1.png?dl=0)
 
 # INAV Configurator
-https://avatars.githubusercontent.com/u/15979895?s=200&v=4
 https://github.com/iNavFlight/inav-configurator/releases/download/6.1.0/INAV-Configurator_win64_6.1.0.zip
